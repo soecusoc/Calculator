@@ -6,7 +6,7 @@ Main is in the Calculator.java.
 I'm learning Java and GUI-programming for the first time.
 That's why I started with awt (yuck).
 
-I am a newbie when it comes to the OOP.
+I am a newbie what it comes to the OOP.
 This project was for me to learn the concept better.
 I also wanted to learn GUI-programming.
 I got some more experience at working with classes and objects.
@@ -23,4 +23,4 @@ are too many decimals to display. I didn't think it was worth it to
 fix that bug, even though it wouldn't be that hard to fix.
 
 To sum up: This was a casual project to learn the basics of GUI-programming.
-Please, view it as such. That's why there are some odd decicions.
+Please, view it as such. That's why there may be some odd decicions.
